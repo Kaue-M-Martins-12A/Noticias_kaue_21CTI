@@ -16,3 +16,5 @@ function fecharMenu(){
     body.classList.remove("escurecer")
     nav.classList.remove("abrir")
 }
+
+
